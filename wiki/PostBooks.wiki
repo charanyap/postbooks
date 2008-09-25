@@ -1,0 +1,19 @@
+#labels erp,accounting,crm
+=PostBooks: Free Open Source ERP and Accounting Software=
+
+[http://www.xtuple.com/postbooks PostBooks open source erp] is an full-featured, fully-integrated accounting, ERP, and CRM system, based on the award winning xTuple ERP Suite.
+
+Built with the open source PostgreSQL database, and the open source Qt framework for C++, it provides the ultimate in power and flexibility for a range of businesses and industries. It includes the following modules:
+
+    * Accounting (general ledger, accounts receivable and payable, bank reconciliation, financial reporting)
+    * Sales (quotes, order entry, sales reporting, shipping)
+    * CRM (universal address book, incident management, opportunity management, to-do lists, project management)
+    * Purchasing (purchase orders, receiving, vendor reporting)
+    * Product Definition (items, infinite-level bills of material)
+    * Inventory (multiple locations, other advanced warehouse features)
+    * Light Manufacturing (work orders, strong support for make-to-order)
+    * OpenRPT open source report writer 
+
+Like all xTuple products, it runs equally well on Windows, Linux, and Mac - and is fully internationalized (multi-currency, support for multiple tax structures, and multilingual translation packs maintained by our global community).
+
+PostBooks is licensed under the CPAL, the OSI-certified Common Public Attribution License. 
