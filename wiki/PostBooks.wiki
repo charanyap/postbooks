@@ -1,5 +1,5 @@
+#summary Description of PostBooks, free ERP, accounting and CRM software from xTuple
 #labels erp,accounting,crm
-#Description of PostBooks, free ERP, accounting and CRM software from xTuple
 
 =PostBooks: Free Open Source ERP and Accounting Software=
 
