@@ -1,0 +1,11 @@
+#labels xTuple,PostBooks,OpenSource,ERP
+=xTuple and PostBooks experience 74% growth in Q3= 
+
+It has been an amazing year for PostBooks and xTuple.  The xTuple team continues to rapidly establish PostBooks and xTuple as the World's #1 open source ERP.  Here is a year-end blog from an Analyst  [http://blog.technologyevaluation.com/blog/2012/12/27/xtuple-ends-2012-on-a-high-note/]   
+
+We want your feedback and have exciting releases scheduled for Q1!  This includes a new web storefront B2C module that integrates your storefront with xTuple!  We are interested in your feedback.  Feel free to contact [marc@xTuple.com] with your feedback.
+
+Best regards,
+
+Marc O'Brien
+Vice President, Business Development 
